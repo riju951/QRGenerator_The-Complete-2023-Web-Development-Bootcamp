@@ -1,7 +1,5 @@
 # QRGenerator_The-Complete-2023-Web-Development-Bootcamp
 
-# QR Code Generator
-
 ## About
 QR Code Generator is a simple yet powerful Node.js application that enables users to generate QR code images from URLs. This project leverages various Node.js modules, including the built-in `fs` package and npm packages such as `inquirer` and `qr-image`, to facilitate the QR code generation process seamlessly.
 
